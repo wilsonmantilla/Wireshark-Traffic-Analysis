@@ -1,4 +1,4 @@
-<h1>Network Traffic Analysis with Wireshark</h1>
+<h1>Network Traffic Analysis in Wireshark</h1>
 
 <h2>Description</h2>
 Open a packet capture file using Wireshark, examine packet information, and apply display filters to analyze network traffic.
