@@ -1,7 +1,7 @@
 <h1>Network Traffic Analysis in Wireshark</h1>
 
 <h2>Description</h2>
-Open a packet capture file using Wireshark, examine packet information, and apply display filters to analyze network traffic.
+Open a packet capture file using Wireshark, examine packet information, and apply display filters to analyze network traffic. This project was part of the Google Cybersecurity Professional Certification.
 <br />
 <br />
 <h2>Task 1. Explore data with Wireshark</h2>
